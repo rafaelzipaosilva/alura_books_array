@@ -22,15 +22,21 @@ No projeto base, veio o HTML e o CSS já prontos. Toda a execução foi realizad
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ### Resultado dos Botões de Categorias
-[Categorias](https://user-images.githubusercontent.com/29807231/211110295-3d12c62d-ebc6-4094-a41f-1283c59b3f8f.png#vitrinedev)
+![categoriaFrontEnd](https://user-images.githubusercontent.com/29807231/213546505-43f91fcc-8e94-4584-b093-869e9e21b7b0.png#vitrinedev)
+![categoriaBackEnd](https://user-images.githubusercontent.com/29807231/213546702-e7c80720-fef0-4a3a-ab4d-dab74b3ef5c0.pngvitrinedev)
+![categoriaDados](https://user-images.githubusercontent.com/29807231/213546776-b16a46eb-a8f8-435b-9fe2-7954cddc160b.pngvitrinedev)
+
+
 Neste botão, os livros são filtrados de acordo com a categoria escolhida: Front-end, back-end ou dados
 
 ### Resultado do Botão de Livros Disponíveis
 
-![Livros Disponíveis](https://user-images.githubusercontent.com/29807231/211109951-31f5dec4-eed4-43db-a8eb-17b248fea273.png#vitrinedev)
+![livrosDisponiveis](https://user-images.githubusercontent.com/29807231/213546990-ec893464-2ce0-4e5e-a85c-d00fba3a322d.png#vitrinedev)
+
 Neste botão, os livros são filtrados por aqueles que possuem quantidade no estoque. Neste botão também aparece no rodapé um botão de oferta com o valor total de todos os livros disponíveis.
 
 ### Resultado do Botão de Ordenar por Preço
 
-![Ordenar por Preço](https://user-images.githubusercontent.com/29807231/211110181-d8affca8-0405-42df-90d8-ba578c1f1f88.png#vitrinedev)
+![ordenarPorPreco](https://user-images.githubusercontent.com/29807231/213547212-abc96a34-7362-49b8-9302-79cb4b094270.png#vitrinedev)
+
 Neste botão, os livros são ordenados por ordem de valor.
