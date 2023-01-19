@@ -23,8 +23,8 @@ No projeto base, veio o HTML e o CSS já prontos. Toda a execução foi realizad
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ### Resultado dos Botões de Categorias
 ![categoriaFrontEnd](https://user-images.githubusercontent.com/29807231/213546505-43f91fcc-8e94-4584-b093-869e9e21b7b0.png#vitrinedev)
-![categoriaBackEnd](https://user-images.githubusercontent.com/29807231/213546702-e7c80720-fef0-4a3a-ab4d-dab74b3ef5c0.pngvitrinedev)
-![categoriaDados](https://user-images.githubusercontent.com/29807231/213546776-b16a46eb-a8f8-435b-9fe2-7954cddc160b.pngvitrinedev)
+![categoriaBackEnd](https://user-images.githubusercontent.com/29807231/213546702-e7c80720-fef0-4a3a-ab4d-dab74b3ef5c0.png#vitrinedev)
+![categoriaDados](https://user-images.githubusercontent.com/29807231/213546776-b16a46eb-a8f8-435b-9fe2-7954cddc160b.png#vitrinedev)
 
 
 Neste botão, os livros são filtrados de acordo com a categoria escolhida: Front-end, back-end ou dados
